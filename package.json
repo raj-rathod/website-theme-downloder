@@ -1,0 +1,32 @@
+{
+  "name": "web-theme-downloader",
+  "version": "0.0.0",
+  "description": "Download any static website source code for learning purpose only. You just require live url of that website.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run tets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://raj-rathod@github.com/raj-rathod/web-theme-downloder.git"
+  },
+  "keywords": [
+    "Theme",
+    "downloder",
+    "Downlod",
+    "static",
+    "website",
+    "website",
+    "source",
+    "code",
+    "source",
+    "code",
+    "download"
+  ],
+  "author": "Rajesh Rathore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raj-rathod/web-theme-downloder/issues"
+  },
+  "homepage": "https://github.com/raj-rathod/web-theme-downloder#readme"
+}
