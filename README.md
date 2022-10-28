@@ -1,1 +1,1 @@
-# Web Theme Downloader
+# Website Theme Downloader
